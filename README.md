@@ -55,3 +55,12 @@ Você deverá realizar uma pesquisa dos módulos e bibliotecas que permitem o
     ```bash
     python main.py
     ```
+
+## Exemplo:
+
+<!-- imagem -->
+![image](./assets/example.jpg)
+
+## Como melhorar
+
+Para que o projeto fique ainda melhor, você pode adicionar mais rotas dentro de `ports.txt`. Assim, o programa irá reconhecer mais portas e serviços.
